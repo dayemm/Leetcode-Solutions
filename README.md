@@ -36,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/dayemm/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/dayemm/Leetcode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/dayemm/Leetcode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Enumeration
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/dayemm/Leetcode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
